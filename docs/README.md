@@ -1,1 +1,1 @@
-This folder should contain the simulation model supporting document like implementation details.
+This folder should contain the simulation model supporting document like implementation details, test plan document.
